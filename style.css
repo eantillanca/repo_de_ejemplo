@@ -1,0 +1,11 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.contenedor {
+    padding: 3rem;
+    background-color: rgb(211, 60, 43);
+    height: 100vh;
+}
